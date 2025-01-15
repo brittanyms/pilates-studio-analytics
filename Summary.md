@@ -23,7 +23,11 @@ The primary goal of this analysis is to evaluate the studio's operational effici
 
 ---
 
-## **Key Takeaways**
+## **Insights Summary**
+#### In order to evaluate the studio's operation performance, we focused on the following key metrics:**
+- **Attendance Rate**: The percentage of available class spots that are filled by the start of class.
+- **Class Booking Status**: Categorizes classes as "Underbooked," "Ideal," or "Overbooked" based on a defined occupancy threshold.
+- **Waitlist Size**: The number of people who remain on the waitlist after the start of class.
 
 1. **Attendance Patterns**:
     - Mondays, Fridays, and Thursdays see the highest overall attendance, with late Monday mornings being the most popular time slot.
