@@ -1,14 +1,12 @@
-## **About the Project**
+## **Studio Pilates Operations Insights - Project Overview**
 
-Two years ago, I discovered Pilates and began taking classes sporadically. This year, I set a goal to practice more consistently, including taking my first private lesson while visiting Cape Town, South Africa. This deepened my passion for Pilates and sparked a dream of one day opening my own studio. As a data analyst, this aspiration inspired me to analyze the operations of a local Pilates studio.
-
-**Disclaimer**: This project uses synthetic data generated solely for educational purposes.
+Founded in 2022, the Studio Pilates is an Atlanta pilates studio offering group and private classes, with a range of levels (Intro, Level 1, Level 2, Level 3). To optimize hired a data team to analyze studio performance and provide strategies to optimize class operations for the upcoming year. Their primary objectives is to maximize studio utilization.
 
 ---
 
 ## **Business Objective**
 
-The primary goal of this analysis is to evaluate the studio's operational efficiency by exploring attendance patterns, identifying optimal class times and types, and uncovering underperforming classes.
+Founded in 2022, the Studio Pilates is an Atlanta pilates studio offering group classes and private classes, with a range of levels (Intro, Level 1, Level 2, Level 3). They hired a data team to analyze studio performance and provide strategies to optimize class operations for the upcoming year. 
 
 ---
 
