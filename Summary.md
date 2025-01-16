@@ -1,28 +1,11 @@
 ## **Studio Pilates Operations Insights - Project Overview**
 
-Founded in 2022, the Studio Pilates is an Atlanta pilates studio offering group and private classes, with a range of levels (Intro, Level 1, Level 2, Level 3). To optimize hired a data team to analyze studio performance and provide strategies to optimize class operations for the upcoming year. Their primary objectives is to maximize studio utilization.
-
----
-
-## **Business Objective**
-
-Founded in 2022, the Studio Pilates is an Atlanta pilates studio offering group classes and private classes, with a range of levels (Intro, Level 1, Level 2, Level 3). They hired a data team to analyze studio performance and provide strategies to optimize class operations for the upcoming year. 
-
----
-
-## **Questions for the Analysis**
-
-1. **Which class times and days have the highest attendance?**
-2. **What are the most popular types of classes?**
-3. **Are there trends in class popularity by season or time of year?**
-4. **What is the studio’s class fill rate?**
-5. **Are certain classes consistently under- or over-booked?**
-6. **What is the average class waitlist size, and can this inform the need for additional classes?**
+Founded in 2022, the Studio Pilates is an Atlanta pilates studio offering group and private classes, with a range of levels (Intro, Level 1, Level 2, Level 3). To optimize class operations for the upcoming year they hired a data team to analyze its performance. The primary objective is to maximize studio utilization by analyzing key performance indicators related to class attendance and scheduling.
 
 ---
 
 ## **Insights Summary**
-#### In order to evaluate the studio's operation performance, we focused on the following key metrics:
+#### In order to evaluate the studio's performance, we focused on the following key metrics:
 - **Attendance Rate**: The percentage of available class spots that are filled by the start of class.
 - **Class Booking Status**: Categorizes classes as "Underbooked," "Ideal," or "Overbooked" based on a defined occupancy threshold.
 - **Waitlist Size**: The number of people who remain on the waitlist after the start of class.
@@ -31,8 +14,8 @@ Founded in 2022, the Studio Pilates is an Atlanta pilates studio offering group 
     - Mondays, Fridays, and Thursdays see the highest overall attendance, with late Monday mornings being the most popular time slot.
     - While Wednesdays are the least popular day, they still maintain a strong attendance rate of 87%.
 
-2. **Most Popular Class Types**:
-    - The Signature Level 1 class has the highest attendance rate. However, the attendance gap across all class types is minimal, with only a 1% spread. (*This narrow margin may result from synthetic data.*)
+2. **Class Popularity**:
+    - The Signature Level 1 class has the highest attendance rate. However, the attendance gap across all class types is minimal, with only a 1% spread.
 
 3. **Seasonal Trends**:
     - Popular classes shift by season:
