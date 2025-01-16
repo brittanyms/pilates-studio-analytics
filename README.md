@@ -1,6 +1,6 @@
 ## **Studio Pilates Operations Insights - Project Overview**
 
-Founded in 2022, the Studio Pilates is an Atlanta pilates studio offering group and private classes, with a range of levels (Intro, Level 1, Level 2, Level 3). To optimize class operations for the upcoming year they hired a data team to analyze its performance. The primary objective is to maximize studio utilization by analyzing key performance indicators related to class attendance and scheduling.
+Founded in 2022, <i>Studio Pilates</i> is an Atlanta pilates studio offering group and private classes, with a range of levels (Intro, Level 1, Level 2, Level 3). To optimize class operations for the upcoming year they hired a data team to analyze its performance. The primary objective is to maximize studio utilization by analyzing key performance indicators related to class attendance and scheduling.
 
 ---
 
@@ -58,4 +58,4 @@ Founded in 2022, the Studio Pilates is an Atlanta pilates studio offering group 
 
 ## **Conclusion**
 
-This analysis demonstrates that the Pilates studio is performing exceptionally well, with high attendance rates and consistent class fill rates. However, by implementing targeted changes—such as introducing a Level 2.5 class, optimizing seasonal offerings, and expanding operations—the studio can further enhance customer satisfaction and profitability while supporting long-term growth.
+This analysis demonstrates that <i>Studio Pilates</i> is performing exceptionally well, with high attendance rates and consistent class fill rates. However, by implementing targeted changes—such as introducing a Level 2.5 class, optimizing seasonal offerings, and expanding operations—the studio can further enhance customer satisfaction and profitability while supporting long-term growth.
